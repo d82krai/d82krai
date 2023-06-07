@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d82krai
+- 👋 Hi, I’m Deepak.
 - 👀 I’m interested in Developing something cool.
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Microservice based project using .net core
