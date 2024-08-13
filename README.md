@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak.
 - 👀 I’m interested in Developing something cool.
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Microservice based project using .net core
 - 📫 You can reach me @ deep.k.rai@gmail.com
 
